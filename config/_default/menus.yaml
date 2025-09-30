@@ -1,0 +1,48 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: fb5cb06a-2f1f-514c-219e-e20414d036bb
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 7976b3e0-f9f4-e5f8-d074-33b62af983df
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: d86eb082-c9ee-fb5a-52cb-7fafcd509bbc
+  name: Lists of works
+  pageRef: /pages/lecture-slides/
+  weight: 30
+- identifier: c4d33340-398a-277c-2813-89a47e512a04
+  name: "Part I (weeks 2\u20135)"
+  pageRef: /pages/lecture-slides/part-i-weeks-220135
+  parent: d86eb082-c9ee-fb5a-52cb-7fafcd509bbc
+  weight: 40
+- identifier: 5eb1592b-4a9b-d60b-2d9e-a2544ff21b45
+  name: "Part II (weeks 6\u201310)"
+  pageRef: /pages/lecture-slides/part-ii-weeks-6201310
+  parent: d86eb082-c9ee-fb5a-52cb-7fafcd509bbc
+  weight: 50
+- identifier: 6fe62931-4d14-f0ad-4914-21b1570026a2
+  name: "Part III (weeks 11\u201315)"
+  pageRef: /pages/lecture-slides/part-iii-weeks-11201315
+  parent: d86eb082-c9ee-fb5a-52cb-7fafcd509bbc
+  weight: 60
+- identifier: 4977a93f-d7e5-a7fb-8882-b727dd1a03a9
+  name: Readings
+  pageRef: /pages/readings
+  weight: 70
+- identifier: 440b7e0a-d3d0-d909-e0f3-f7d1d958d58b
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 80
+- identifier: ed9c1f13-939c-166b-f3c9-fa3fdffd9575
+  name: Second Paper
+  pageRef: /pages/assignments/4-601-second-paper
+  parent: 440b7e0a-d3d0-d909-e0f3-f7d1d958d58b
+  weight: 90
+- identifier: d8ef1908-7f82-d764-5a0b-b46cedbda6da
+  name: Final Paper
+  pageRef: /pages/assignments/4-601-third-paper
+  parent: 440b7e0a-d3d0-d909-e0f3-f7d1d958d58b
+  weight: 100
